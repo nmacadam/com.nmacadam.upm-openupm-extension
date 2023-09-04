@@ -1,0 +1,15 @@
+{
+  "name": "com.nmacadam.upm-openupm-extension",
+  "version": "1.0.0",
+  "displayName": "UPM OpenUPM Extension",
+  "description": "This package adds a custom dropdown menu item to the Package Manager window for installing OpenUPM packages.",
+  "license": " MIT",
+  "keywords": [
+    "UPM",
+    "OpenUPM"
+  ],
+  "author": {
+    "name": "Nathan MacAdam",
+    "url": "https://github.com/nmacadam"
+  }
+}
